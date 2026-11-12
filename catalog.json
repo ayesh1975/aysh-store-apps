@@ -14,12 +14,12 @@
     {
       "id": "app-1794479952515",
       "name": "apk bulider",
-      "description": "يبني ملفات ارشيف لتطببقات الاندرويد ويخرجها apk",
+      "description": "يبني تطبيقات الاندرويد apk",
       "version": "1.0.0",
       "size": "1.4 MB",
       "category": "أدوات",
-      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794479952515-v1.0.0-1794479953429.apk",
-      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794479952515-v1.0.0-icon-1794479958076.png",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794480138200-v1.0.0-1794480139918.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794480138200-v1.0.0-icon-1794480142724.png",
       "sha256": "9c4111e40b0dfdd5af9d604e20b5758715965d689eff01c27b514940f4429c9c",
       "featured": false
     }
