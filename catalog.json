@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "id": "app-1794478371297",
+      "name": "AyeshStore",
+      "description": "تطبيق لتنزيل التطبيقات",
+      "version": "1.0.0",
+      "size": "50.8 MB",
+      "category": "أدوات",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794478371297-v1.0.0-1794478377886.apk",
+      "sha256": "c90b2a09041a0445ff9b89bfec075ab4058533e828dd6137259bf914fe6f299c",
+      "featured": false
+    }
+  ]
+}
