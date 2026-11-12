@@ -22,6 +22,18 @@
       "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794480138200-v1.0.0-icon-1794480142724.png",
       "sha256": "9c4111e40b0dfdd5af9d604e20b5758715965d689eff01c27b514940f4429c9c",
       "featured": false
+    },
+    {
+      "id": "app-1794510690234",
+      "name": "super goal 1",
+      "description": "مقرر اولى متوسط سوبر جول 1 كويز لعبه لمذاكرت المقرر كاملا ممتعه وايضا الدروس مع اختبارات ودرجات يجعل المذاكره متعه",
+      "version": "1.0.0",
+      "size": "53.2 MB",
+      "category": "أدوات",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794510690234-v1.0.0-1794510696004.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794510690234-v1.0.0-icon-1794510738295.png",
+      "sha256": "ae015a5f944b08e4b9607dc2db31cf88afb7d57eecb156627665ee4fbda4e017",
+      "featured": false
     }
   ]
 }
