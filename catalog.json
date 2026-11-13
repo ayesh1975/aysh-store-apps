@@ -3,14 +3,15 @@
     {
       "id": "app-1794478371297",
       "name": "AyeshStore",
-      "description": "متجري الخاص لالعاب و تطبيقات الاندرويد التي طورتها القديمه والجديده متجر سهل الاستخدام و احترافي",
-      "version": "1.0.0",
+      "description": "متجري الخاص يوجد به تطبيقاتي الخاصه و والعاب التي طورتها القديمه والجديده متجر سهل الاستخدام و احترافي",
+      "version": "1.4.5",
       "size": "50.8 MB",
       "category": "أدوات",
-      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794556112630-v1.0.0-1794556117618.apk",
-      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794556112630-v1.0.0-icon-1794556141511.png",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794558199603-v1.4.5-1794558204618.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794558199603-v1.4.5-icon-1794558280886.png",
       "packageName": "com.ayshdeveloper.ayesh_store.user",
-      "sha256": "d29e5b6d6dbe88b3eb424ce059b17e9a30676961abdf523504d51bdcda423f9e",
+      "versionCode": 10,
+      "sha256": "e22763342f759027a48d5bae9043d52fd48b4c8b9004d6ceaf702dc88659dc69",
       "featured": false
     },
     {
