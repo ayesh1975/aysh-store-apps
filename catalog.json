@@ -36,6 +36,19 @@
       "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794510690234-v1.0.0-icon-1794510738295.png",
       "sha256": "ae015a5f944b08e4b9607dc2db31cf88afb7d57eecb156627665ee4fbda4e017",
       "featured": false
+    },
+    {
+      "id": "app-1794555359836",
+      "name": "ayesh bird",
+      "description": "لعبتي المقلده من لعبه فلابي بيرد ممتعه وتختبر التحكم في الاعصاب",
+      "version": "1.0.0",
+      "size": "77.4 MB",
+      "category": "أدوات",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794555359836-v1.0.0-1794555367112.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794555359836-v1.0.0-icon-1794555400365.png",
+      "packageName": "com.ayesh.bird.fixed",
+      "sha256": "30af668b53386c21ea1b19e8bd2594f19f9419c4624377c6c261bfeb22d68c81",
+      "featured": false
     }
   ]
 }
