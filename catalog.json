@@ -3,12 +3,14 @@
     {
       "id": "app-1794478371297",
       "name": "AyeshStore",
-      "description": "تطبيق لتنزيل التطبيقات",
+      "description": "متجر تطبيقاتي سهل الاستخدام ومعضم التطبيقات خاصه وحديثه لا توجد في المتاجر الاخرى",
       "version": "1.0.0",
       "size": "50.8 MB",
       "category": "أدوات",
-      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794478371297-v1.0.0-1794478377886.apk",
-      "sha256": "c90b2a09041a0445ff9b89bfec075ab4058533e828dd6137259bf914fe6f299c",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794551514808-v1.0.0-1794551519725.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794551514808-v1.0.0-icon-1794551544366.png",
+      "packageName": "com.ayshdeveloper.ayesh_store.user",
+      "sha256": "f2c949e18a15a313070b242210decd1c0e2c36a1d258078112d00a0cca68fe2e",
       "featured": false
     },
     {
