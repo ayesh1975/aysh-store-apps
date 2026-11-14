@@ -52,20 +52,6 @@
       "featured": false
     },
     {
-      "id": "app-1794564367441",
-      "name": "كيان",
-      "description": "لعبه اكشن قتال الوحوش لتنقض اشخاص حبسهم الوحوش البطله كيان لعبه تجريبيه",
-      "version": "1.0.1",
-      "size": "132.7 MB",
-      "category": "أدوات",
-      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794564367441-v1.0.1-1794564380060.apk",
-      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794564367441-v1.0.1-icon-1794564492405.png",
-      "packageName": "com.kayan.iceprincess",
-      "versionCode": 2,
-      "sha256": "140e73771bec635665b3ed444b879c5f025d04b10fe1e80c9cc8b32b6dbf1a0a",
-      "featured": false
-    },
-    {
       "id": "app-1794695337234",
       "name": "دفتر الدين",
       "description": "دفتر الدين الشخصي تطبيق لتسجيل ديونك اول باول مع كل المحلات التي تدين لها بسيط واحترافي",
