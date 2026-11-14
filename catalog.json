@@ -64,6 +64,20 @@
       "versionCode": 2,
       "sha256": "140e73771bec635665b3ed444b879c5f025d04b10fe1e80c9cc8b32b6dbf1a0a",
       "featured": false
+    },
+    {
+      "id": "app-1794695337234",
+      "name": "دفتر الدين",
+      "description": "دفتر الدين الشخصي تطبيق لتسجيل ديونك اول باول مع كل المحلات التي تدين لها بسيط واحترافي",
+      "version": "1.1.0",
+      "size": "49.1 MB",
+      "category": "محاسبه",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794695337234-v1.1.0-1794695341886.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794695337234-v1.1.0-icon-1794695365621.png",
+      "packageName": "com.ramias.daftar",
+      "versionCode": 3,
+      "sha256": "ef648e1aea483716597d4bb1c59ff0d774aa38f5c5d44adad841b6a7b5ae68e6",
+      "featured": false
     }
   ]
 }
