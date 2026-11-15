@@ -52,6 +52,20 @@
       "versionCode": 15,
       "sha256": "0eb03dafb75008dd50f6d6e667d605b02c24d655062a6034c15532477fdc6b5e",
       "featured": false
+    },
+    {
+      "id": "app-1794780737146",
+      "name": "ApkBuilder",
+      "description": "تطبيق لبناء ارشيف مضغوطه جاهز بملفات فلاتر مكتمل وحقيقي وايضا ملفات الاندرويد و كوتلتن apk",
+      "version": "1.3.0",
+      "size": "1.4 MB",
+      "category": "أدوات",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794780737146-v1.3.0-1794780738385.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794780737146-v1.3.0-icon-1794780742700.png",
+      "packageName": "com.ramias.apkbuilder",
+      "versionCode": 6,
+      "sha256": "557b794fa6c0c55cdea39ce49456c41ec24667f04c0cdd1f2d9235c17dc0c21d",
+      "featured": false
     }
   ]
 }
