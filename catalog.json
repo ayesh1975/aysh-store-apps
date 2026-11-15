@@ -66,6 +66,20 @@
       "versionCode": 5,
       "sha256": "9c4111e40b0dfdd5af9d604e20b5758715965d689eff01c27b514940f4429c9c",
       "featured": false
+    },
+    {
+      "id": "app-1794728814206",
+      "name": "AyeshStore",
+      "description": "متجري الخاص يوجد به تطبيقاتي الخاصه و والعاب التي طورتها القديمه والجديده متجر سهل الاستخدام و احترافي",
+      "version": "1.5.0",
+      "size": "50.1 MB",
+      "category": "أدوات",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794728814206-v1.5.0-1794728819271.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794728814206-v1.5.0-icon-1794728849432.png",
+      "packageName": "com.ayshdeveloper.ayesh_store.user",
+      "versionCode": 15,
+      "sha256": "0eb03dafb75008dd50f6d6e667d605b02c24d655062a6034c15532477fdc6b5e",
+      "featured": false
     }
   ]
 }
