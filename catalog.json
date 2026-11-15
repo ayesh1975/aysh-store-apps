@@ -54,20 +54,6 @@
       "featured": false
     },
     {
-      "id": "app-1794705960895",
-      "name": "AyeshStore",
-      "description": "متجر تطبيقاتي سهل الاستخدام و احترافي كامل",
-      "version": "1.4.8",
-      "size": "50.1 MB",
-      "category": "أدوات",
-      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794705960895-v1.4.8-1794705966162.apk",
-      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794705960895-v1.4.8-icon-1794706008794.png",
-      "packageName": "com.ayshdeveloper.ayesh_store.user",
-      "versionCode": 13,
-      "sha256": "f7d04af4bf6ac2a8b995446c9e05da29144d3c8ee8a7d2c56ea35c5dfac2ceb5",
-      "featured": false
-    },
-    {
       "id": "app-1794706678832",
       "name": "apk builder",
       "description": "يبني ملفات ارشيف مضغوطه جاهزه بملفات فلاتر مكتمل وحقيقي وايضا ملفات الاندرويد و كوتلن و يخرج ملف apk",
