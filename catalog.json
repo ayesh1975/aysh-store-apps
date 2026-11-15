@@ -80,6 +80,20 @@
       "versionCode": 15,
       "sha256": "0eb03dafb75008dd50f6d6e667d605b02c24d655062a6034c15532477fdc6b5e",
       "featured": false
+    },
+    {
+      "id": "app-1794731730140",
+      "name": "دفتر الدين الشخصي",
+      "description": "هذا يسهل عليك معرفه كل شي عن ديونك وادارتها",
+      "version": "1.2.0",
+      "size": "49.2 MB",
+      "category": "تطبيقات",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794731730140-v1.2.0-1794731735357.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794731730140-v1.2.0-icon-1794731827689.png",
+      "packageName": "com.ramias.daftar",
+      "versionCode": 4,
+      "sha256": "4fe920d98cd6fc4eea548c20a45d5802da89299a6470182cbc07e5adb6638759",
+      "featured": false
     }
   ]
 }
