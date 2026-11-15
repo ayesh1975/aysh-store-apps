@@ -64,20 +64,6 @@
       "versionCode": 2,
       "sha256": "140e73771bec635665b3ed444b879c5f025d04b10fe1e80c9cc8b32b6dbf1a0a",
       "featured": false
-    },
-    {
-      "id": "app-1794703518025",
-      "name": "AyeshStore",
-      "description": "متجر تطبيقاتي سهل الاستخدام و احترافي",
-      "version": "1.4.6",
-      "size": "50.1 MB",
-      "category": "أدوات",
-      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794703518025-v1.4.6-1794703523034.apk",
-      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794703518025-v1.4.6-icon-1794703567189.png",
-      "packageName": "com.ayshdeveloper.ayesh_store.user",
-      "versionCode": 11,
-      "sha256": "52806e11a1a6210e2b4fe0ed1c5426d3cf01263bf0f97f10d917eab4cd3492a9",
-      "featured": false
     }
   ]
 }
