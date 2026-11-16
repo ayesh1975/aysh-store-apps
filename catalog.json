@@ -66,6 +66,20 @@
       "versionCode": 6,
       "sha256": "557b794fa6c0c55cdea39ce49456c41ec24667f04c0cdd1f2d9235c17dc0c21d",
       "featured": false
+    },
+    {
+      "id": "app-1794864398383",
+      "name": "دفتر الدين الشخصي",
+      "description": "ادارة الدين بشكل سهل جدا",
+      "version": "1.6.6",
+      "size": "49.6 MB",
+      "category": "تطبيقات",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794864398383-v1.6.6-1794864403644.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794864398383-v1.6.6-icon-1794864460654.png",
+      "packageName": "com.ramias.daftar",
+      "versionCode": 15,
+      "sha256": "e945ae616a95378886e553342c4b86e024902904970de2cac3b10db405d02543",
+      "featured": false
     }
   ]
 }
