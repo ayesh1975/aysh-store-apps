@@ -66,20 +66,6 @@
       "versionCode": 6,
       "sha256": "557b794fa6c0c55cdea39ce49456c41ec24667f04c0cdd1f2d9235c17dc0c21d",
       "featured": false
-    },
-    {
-      "id": "app-1794829528201",
-      "name": "دفتر الدين",
-      "description": "تطبيق تدير ديونك من خلاله بابسط الطرق دفتر الدين الإلكتروني",
-      "version": "1.6.1",
-      "size": "49.2 MB",
-      "category": "أدوات",
-      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794829528201-v1.6.1-1794829534180.apk",
-      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1794829528201-v1.6.1-icon-1794829583008.png",
-      "packageName": "com.ramias.daftar",
-      "versionCode": 10,
-      "sha256": "5eda32a20a0d77239bebfcb1a28686df79a2eca49d9a3aa3874a8c52d40f45ae",
-      "featured": false
     }
   ]
 }
