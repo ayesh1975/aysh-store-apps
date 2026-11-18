@@ -66,6 +66,20 @@
       "versionCode": 15,
       "sha256": "e945ae616a95378886e553342c4b86e024902904970de2cac3b10db405d02543",
       "featured": false
+    },
+    {
+      "id": "app-1795040880124",
+      "name": "ApkBuilder",
+      "description": "ابني تطبيقك الفلاتر مع الكوتلن والجافا للاندرويد واجرج ملف APK مع تثبيت التطبيق على جهازك",
+      "version": "1.3.1",
+      "size": "1.7 MB",
+      "category": "أدوات",
+      "apkUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1795040880124-v1.3.1-1795040881150.apk",
+      "iconUrl": "https://github.com/ayesh1975/aysh-store-apps/releases/download/aysh-store-apps/app-1795040880124-v1.3.1-icon-1795040885407.png",
+      "packageName": "com.ramias.apkbuilder",
+      "versionCode": 7,
+      "sha256": "be59df4cd235c97592fd2c9f49696b53443021adebe64de9460ea8f6d1df0d98",
+      "featured": false
     }
   ]
 }
